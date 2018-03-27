@@ -8,7 +8,7 @@
             "type": "shell",
             "command":"g++",
             "args":[
-                "-g", "homework7.cpp -o homework7"
+                "-g", "section8.cpp -o section8"
             ],
             "group": {
                 "kind": "build",
