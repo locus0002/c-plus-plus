@@ -8,7 +8,7 @@
             "type": "shell",
             "command":"g++",
             "args":[
-                "-g", "section8.cpp -o section8"
+                "-g", "section9.cpp -o section9"
             ],
             "group": {
                 "kind": "build",

@@ -9,7 +9,7 @@
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/section8.exe",
+            "program": "${workspaceFolder}/section9.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
