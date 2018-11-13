@@ -4,11 +4,11 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "taskName": "echo",
+            "label": "build example",
             "type": "shell",
             "command":"g++",
             "args":[
-                "-g", "section9.cpp -o section9"
+                "-g", "section13NameSpaces.cpp", "-o", "section13NameSpaces"
             ],
             "group": {
                 "kind": "build",
