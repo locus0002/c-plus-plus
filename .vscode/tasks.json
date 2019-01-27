@@ -8,7 +8,7 @@
             "type": "shell",
             "command":"g++",
             "args":[
-                "-g", "section13NameSpaces.cpp", "-o", "section13NameSpaces"
+                "-g", "section15.cpp", "section15Database.cpp", "section15Person.cpp", "-o", "section15"
             ],
             "group": {
                 "kind": "build",
