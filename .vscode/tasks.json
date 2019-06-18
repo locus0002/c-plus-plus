@@ -8,7 +8,7 @@
             "type": "shell",
             "command":"g++",
             "args":[
-                "-g", "section15.cpp", "section15Database.cpp", "section15Person.cpp", "-o", "section15"
+                "-g", "algorithms/dataStructure/demoDoubleLinkedList.cpp", "algorithms/dataStructure/DoubleLinkedList.cpp", "algorithms/dataStructure/NodeDLL.cpp", "-o", "algorithms/executables/demoDoubleLinkedList"
             ],
             "group": {
                 "kind": "build",
