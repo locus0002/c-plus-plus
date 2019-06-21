@@ -9,7 +9,7 @@
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/section15.exe",
+            "program": "${workspaceFolder}/exer1.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
