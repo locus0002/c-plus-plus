@@ -8,7 +8,7 @@
             "type": "shell",
             "command":"g++",
             "args":[
-                "-g", "exer1.cpp", "-o", "exer1"
+                "-g", "algorithms/dataStructure/stack/NodeS.cpp", "algorithms/dataStructure/stack/StackLL.cpp", "algorithms/dataStructure/stack/DemoStack.cpp", "-o", "algorithms/executables/stackll"
             ],
             "group": {
                 "kind": "build",
