@@ -8,7 +8,7 @@
             "type": "shell",
             "command":"g++",
             "args":[
-                "-g", "algorithms/dataStructure/stack/NodeS.cpp", "algorithms/dataStructure/stack/StackLL.cpp", "algorithms/dataStructure/stack/DemoStack.cpp", "-o", "algorithms/executables/stackll"
+                "-g", "algorithms/dataStructure/queue/NodeQ.cpp", "algorithms/dataStructure/queue/Queue.cpp", "algorithms/dataStructure/queue/DemoQueue.cpp", "-o", "algorithms/executables/queue"
             ],
             "group": {
                 "kind": "build",
