@@ -8,7 +8,7 @@
             "type": "shell",
             "command":"g++",
             "args":[
-                "-g", "algorithms/dataStructure/queue/NodeQ.cpp", "algorithms/dataStructure/queue/Queue.cpp", "algorithms/dataStructure/queue/DemoQueue.cpp", "-o", "algorithms/executables/queue"
+                "-g", "algorithms/trees/NodeBTS.cpp", "algorithms/trees/BinaryTreeSearch.cpp", "algorithms/trees/DemoBST.cpp", "-o", "algorithms/executables/binarySearchTree"
             ],
             "group": {
                 "kind": "build",

@@ -9,7 +9,7 @@
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/algorithms/executables/queue.exe",
+            "program": "${workspaceFolder}/algorithms/executables/binarySearchTree.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
