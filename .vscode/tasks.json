@@ -8,7 +8,7 @@
             "type": "shell",
             "command":"g++",
             "args":[
-                "-g", "algorithms/trees/NodeBTS.cpp", "algorithms/trees/BinaryTreeSearch.cpp", "algorithms/trees/DemoBST.cpp", "-o", "algorithms/executables/binarySearchTree"
+                "-g", "college/testcode.cpp", "-o", "college/testcode"
             ],
             "group": {
                 "kind": "build",
