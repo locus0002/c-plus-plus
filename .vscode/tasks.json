@@ -6,14 +6,15 @@
         {
             "label": "build example",
             "type": "shell",
-            "command":"g++",
-            "args":[
-                "-g", "college/testcode.cpp", "-o", "college/testcode"
+            "command": "g++",
+            "args": [
+                "-g",
+                "test.cpp",
+                "-o",
+                "test"
             ],
-            "group": {
-                "kind": "build",
-                "isDefault": true
-            }
+            "group": "build",
+            "problemMatcher": []
         }
     ]
 }
